@@ -1,0 +1,25 @@
+
+
+
+table.Maze
+{
+    background-color: rgb(250, 236, 226);
+    border-color:black;
+    font-size:larger;
+   
+}
+
+
+table.Maze TH
+{
+    background-color: rgb(253, 35, 19);
+    color: aliceblue;
+    height: 1px;
+    
+}
+#over
+{
+    border-width: 3PX;
+    border-color: black;
+
+}
